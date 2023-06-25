@@ -1,0 +1,44 @@
+---
+sidebar_position: 1
+---
+
+# Governance Overview
+
+:::tip
+**Note:** Working on a governance proposal? Make sure to look at the [best practices](./best-practices).
+:::
+
+Evmos has an on-chain governance mechanism for passing
+text proposals, changing [chain parameters](./chain-parameters),
+and spending [funds from the community pool](./community-pool).
+
+## On- and off-chain Governance Structure
+
+### Communication Methods
+
+Governance practices and decisions are communicated through different types of documents and design artifacts:
+
+- On-chain governance [proposals](https://www.mintscan.io/openverse/proposals)
+- Architecture Decision records
+- Technical standards / specifications
+
+### Decision-making and Discussion Venues
+
+Venues involve community members to different degrees
+and individuals often perform multiple roles in the Cosmos ecosystem
+(validators, users, developers and core-members of Evmos Team).
+Because technical direction setting and development is almost always happening in the open,
+involvement from members in the extended community occurs organically.
+
+- **[Evmos Discord](https://discord.gg/openverse)**
+  - For ecosystem cross-pollination with an active developer presence.
+  - `🏛│governance` channel for discussing proposals, upgrades, etc.
+  - `📜│proposals` channel for a full list of proposals.
+  - `⏫│upgrades` channel for upcoming software upgrades.
+- **[Commonwealth](https://commonwealth.im/openverse)**
+  - All-in-one platform to discuss, vote, and fund projects together
+  - Evmos [proposals](https://commonwealth.im/openverse/proposals) list
+- **[Telegram (@EvmosOrg)](https://t.me/EvmosOrg)**
+  - General Evmos Telegram group
+- **[Twitter (@EvmosOrg)](https://twitter.com/EvmosOrg)**
+  - Official Evmos Twitter
